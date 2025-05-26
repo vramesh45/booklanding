@@ -40,7 +40,7 @@ This repository contains the HTML landing page for the romantic fiction novel **
 ## Author
 
 Varun Ramesh  
-Feel free to connect and explore more of my work!
+Feel free to connect and explore more of my work - https://www.instagram.com/varun_ramesh04/
 
 ---
 
